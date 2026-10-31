@@ -1,4 +1,4 @@
-# TMS AI06 — QA Requirements, Task & Test Design System
+# QASwarm — QA Requirements, Task & Test Design System
 
 Мультиагентная система, которая преобразует подтверждённые требования из Confluence
 в задачи Jira и тестовую модель Qase. Управляет процессом агент-оркестратор:
